@@ -1,0 +1,14 @@
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\bin\Debug\netcoreapp2.2\Brasileirao.deps.json
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\bin\Debug\netcoreapp2.2\Brasileirao.runtimeconfig.json
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\bin\Debug\netcoreapp2.2\Brasileirao.runtimeconfig.dev.json
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\bin\Debug\netcoreapp2.2\Brasileirao.dll
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\bin\Debug\netcoreapp2.2\Brasileirao.pdb
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\obj\Debug\netcoreapp2.2\Brasileirao.csproj.CoreCompileInputs.cache
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\obj\Debug\netcoreapp2.2\Brasileirao.RazorAssemblyInfo.cache
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\obj\Debug\netcoreapp2.2\Brasileirao.RazorAssemblyInfo.cs
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\obj\Debug\netcoreapp2.2\Brasileirao.AssemblyInfoInputs.cache
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\obj\Debug\netcoreapp2.2\Brasileirao.AssemblyInfo.cs
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\obj\Debug\netcoreapp2.2\Brasileirao.RazorTargetAssemblyInfo.cache
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\obj\Debug\netcoreapp2.2\Brasileirao.dll
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\obj\Debug\netcoreapp2.2\Brasileirao.pdb
+E:\UCS\ProjetoEArquiteturaDeSoftware\Trabalho\Brasileirao\obj\Debug\netcoreapp2.2\Brasileirao.csprojAssemblyReference.cache

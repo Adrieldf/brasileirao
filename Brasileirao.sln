@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29001.49
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brasileirao", "Brasileirao.csproj", "{F321FB8B-034C-4A82-99DD-8FA9EA432568}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brasileirao", "Brasileirao.csproj", "{F321FB8B-034C-4A82-99DD-8FA9EA432568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFInterface", "..\WPFInterface\WPFInterface.csproj", "{D96BCACB-A410-4B42-BAFF-12A37211C771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInterface", "..\ConsoleInterface\ConsoleInterface.csproj", "{73563999-0912-4AB7-9FBE-ACBBB6383556}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{F321FB8B-034C-4A82-99DD-8FA9EA432568}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F321FB8B-034C-4A82-99DD-8FA9EA432568}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F321FB8B-034C-4A82-99DD-8FA9EA432568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96BCACB-A410-4B42-BAFF-12A37211C771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96BCACB-A410-4B42-BAFF-12A37211C771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96BCACB-A410-4B42-BAFF-12A37211C771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96BCACB-A410-4B42-BAFF-12A37211C771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73563999-0912-4AB7-9FBE-ACBBB6383556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73563999-0912-4AB7-9FBE-ACBBB6383556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73563999-0912-4AB7-9FBE-ACBBB6383556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73563999-0912-4AB7-9FBE-ACBBB6383556}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
